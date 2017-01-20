@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: test HL 06
+  host: test-HL-06
+  disk_quota: 1024M
